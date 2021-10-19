@@ -1,0 +1,121 @@
+@charset "utf-8";
+
+body{
+	margin:0;
+	padding:0;
+}
+
+img{
+	position:absolute;
+}
+
+.link1{
+	left:126px;
+	top:848px;
+	opacity:1;
+	transition: opacity 2s;
+}
+
+.link1:hover{
+	opacity:0;
+}
+
+.link2{
+	left:502px;
+	top:1169px;
+	opacity:1;
+	transition: opacity 2s;
+}
+.link2:hover{
+	opacity:0;
+}
+
+.link3{
+	left:131px;
+	top:1440px;
+	opacity:1;
+	transition: opacity 2s;
+}
+.link3:hover{
+	opacity:0;
+}
+
+.link4{
+	left:128px;
+	top:238px;
+	opacity:1;
+	transition: opacity 2s;
+}
+.link4:hover{
+	opacity:0;
+}
+
+.link5{
+	left:492px;
+	top:841px;
+	opacity:1;
+	transition: opacity 2s;
+}
+.link5:hover{
+	opacity:0;
+}
+
+.link6{
+	left:124.5px;
+	top:1181.5px;
+	opacity:1;
+	transition: opacity 2s;
+}
+.link6:hover{
+	opacity:0;
+}
+
+.link7{
+	left:500.5px;
+	top:1463.5px;
+	opacity:1;
+	transition: opacity 2s;
+}
+.link7:hover{
+	opacity:0;
+}
+
+.link8{
+	left:82.5px;
+	top:1754.5px;
+	opacity:1;
+	transition: opacity 2s;
+}
+.link8:hover{
+	opacity:0;
+}
+
+.link9{
+	left:868.5px;
+	top:842.5px;
+	opacity:1;
+	transition: opacity 2s;
+}
+.link9:hover{
+	opacity:0;
+}
+
+.link10{
+	left:862.5px;
+	top:938.5px;
+	opacity:1;
+	transition: opacity 2s;
+}
+.link10:hover{
+	opacity:0;
+}
+
+.link11{
+	left:865.5px;
+	top:1046.5px;
+	opacity:1;
+	transition: opacity 2s;
+}
+.link11:hover{
+	opacity:0;
+}
